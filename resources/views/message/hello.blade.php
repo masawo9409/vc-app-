@@ -9,6 +9,6 @@
     </title>
 </head>
 <body>
-    <h1>hello from view</h1>
+    <h1>hello from view!</h1>
 </body>
 </html>
