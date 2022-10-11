@@ -12,7 +12,7 @@ class MessageController extends Controller
     }
 
     public function var()
-     {
+    {
         return view('message.var', ['variable' => 'Hello from MessageController']);
     }
 
